@@ -1,0 +1,1041 @@
+Dependencies for Project 'WBV4USB', Target 'WBV4USB': (DO NOT MODIFY !)
+F (../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c)(0x580DB9B3)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_ioreq.o --omf_browse wbv4usb\usbd_ioreq.crf --depend wbv4usb\usbd_ioreq.d)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+F (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c)(0x580DB9B3)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_cdc.o --omf_browse wbv4usb\usbd_cdc.crf --depend wbv4usb\usbd_cdc.d)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Inc/usbd_desc.h)(0x5969B041)
+F (../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c)(0x580DB9B3)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_ctlreq.o --omf_browse wbv4usb\usbd_ctlreq.crf --depend wbv4usb\usbd_ctlreq.d)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+F (../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c)(0x580DB9B3)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_core.o --omf_browse wbv4usb\usbd_core.crf --depend wbv4usb\usbd_core.d)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+F (../Src/system_stm32f1xx.c)(0x580DB97B)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\system_stm32f1xx.o --omf_browse wbv4usb\system_stm32f1xx.crf --depend wbv4usb\system_stm32f1xx.d)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd_ex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_pcd_ex.o --omf_browse wbv4usb\stm32f1xx_hal_pcd_ex.crf --depend wbv4usb\stm32f1xx_hal_pcd_ex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_flash_ex.o --omf_browse wbv4usb\stm32f1xx_hal_flash_ex.crf --depend wbv4usb\stm32f1xx_hal_flash_ex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pcd.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_pcd.o --omf_browse wbv4usb\stm32f1xx_hal_pcd.crf --depend wbv4usb\stm32f1xx_hal_pcd.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_ll_usb.c)(0x580DB9AF)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_ll_usb.o --omf_browse wbv4usb\stm32f1xx_ll_usb.crf --depend wbv4usb\stm32f1xx_ll_usb.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_dma.o --omf_browse wbv4usb\stm32f1xx_hal_dma.crf --depend wbv4usb\stm32f1xx_hal_dma.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_tim.o --omf_browse wbv4usb\stm32f1xx_hal_tim.crf --depend wbv4usb\stm32f1xx_hal_tim.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_rcc_ex.o --omf_browse wbv4usb\stm32f1xx_hal_rcc_ex.crf --depend wbv4usb\stm32f1xx_hal_rcc_ex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_gpio_ex.o --omf_browse wbv4usb\stm32f1xx_hal_gpio_ex.crf --depend wbv4usb\stm32f1xx_hal_gpio_ex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_pwr.o --omf_browse wbv4usb\stm32f1xx_hal_pwr.crf --depend wbv4usb\stm32f1xx_hal_pwr.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal.o --omf_browse wbv4usb\stm32f1xx_hal.crf --depend wbv4usb\stm32f1xx_hal.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_uart.o --omf_browse wbv4usb\stm32f1xx_hal_uart.crf --depend wbv4usb\stm32f1xx_hal_uart.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_tim_ex.o --omf_browse wbv4usb\stm32f1xx_hal_tim_ex.crf --depend wbv4usb\stm32f1xx_hal_tim_ex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_gpio.o --omf_browse wbv4usb\stm32f1xx_hal_gpio.crf --depend wbv4usb\stm32f1xx_hal_gpio.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_flash.o --omf_browse wbv4usb\stm32f1xx_hal_flash.crf --depend wbv4usb\stm32f1xx_hal_flash.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_rcc.o --omf_browse wbv4usb\stm32f1xx_hal_rcc.crf --depend wbv4usb\stm32f1xx_hal_rcc.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c)(0x580DB9AE)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_cortex.o --omf_browse wbv4usb\stm32f1xx_hal_cortex.crf --depend wbv4usb\stm32f1xx_hal_cortex.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Src/gpio.c)(0x5969B03E)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\gpio.o --omf_browse wbv4usb\gpio.crf --depend wbv4usb\gpio.d)
+I (../Inc/gpio.h)(0x5969B03F)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Src/stm32f1xx_it.c)(0x5969B042)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_it.o --omf_browse wbv4usb\stm32f1xx_it.crf --depend wbv4usb\stm32f1xx_it.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_it.h)(0x5969B042)
+F (../Src/usbd_cdc_if.c)(0x5973009C)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_cdc_if.o --omf_browse wbv4usb\usbd_cdc_if.crf --depend wbv4usb\usbd_cdc_if.d)
+I (../Inc/usbd_cdc_if.h)(0x5969B041)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Inc/Computer.hpp)(0x597303DD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F64600)
+F (../Src/usart.c)(0x5969B040)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usart.o --omf_browse wbv4usb\usart.crf --depend wbv4usb\usart.d)
+I (../Inc/usart.h)(0x5969B040)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Inc/gpio.h)(0x5969B03F)
+F (../Src/usb_device.c)(0x5969B040)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usb_device.o --omf_browse wbv4usb\usb_device.crf --depend wbv4usb\usb_device.d)
+I (../Inc/usb_device.h)(0x5969B040)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Inc/usbd_desc.h)(0x5969B041)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Inc/usbd_cdc_if.h)(0x5969B041)
+F (../Src/usbd_conf.c)(0x5969B337)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_conf.o --omf_browse wbv4usb\usbd_conf.crf --depend wbv4usb\usbd_conf.d)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+F (../Src/stm32f1xx_hal_msp.c)(0x5969B042)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\stm32f1xx_hal_msp.o --omf_browse wbv4usb\stm32f1xx_hal_msp.crf --depend wbv4usb\stm32f1xx_hal_msp.d)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+F (../Src/usbd_desc.c)(0x5969B31F)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\usbd_desc.o --omf_browse wbv4usb\usbd_desc.crf --depend wbv4usb\usbd_desc.d)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+I (../Inc/usbd_desc.h)(0x5969B041)
+F (..\Src\Computer.cpp)(0x59730998)(--cpp -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\computer.o --omf_browse wbv4usb\computer.crf --depend wbv4usb\computer.d)
+I (../Inc/Computer.hpp)(0x597303DD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F64600)
+I (../Inc/usbd_cdc_if.h)(0x5969B041)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+F (..\Src\main.cpp)(0x5969B355)(--cpp -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\main.o --omf_browse wbv4usb\main.crf --depend wbv4usb\main.d)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Inc/usart.h)(0x5969B040)
+I (../Inc/usb_device.h)(0x5969B040)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Inc/gpio.h)(0x5969B03F)
+I (../Inc/Computer.hpp)(0x597303DD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F64600)
+I (../Inc/Wireless.hpp)(0x5969C4A6)
+I (../Inc/usbd_cdc_if.h)(0x5969B041)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+F (..\Src\Wireless.cpp)(0x5969DEB8)(--cpp -c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I ../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include --cpp-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o wbv4usb\wireless.o --omf_browse wbv4usb\wireless.crf --depend wbv4usb\wireless.d)
+I (../Inc/Wireless.hpp)(0x5969C4A6)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x580DB9AE)
+I (../Inc/stm32f1xx_hal_conf.h)(0x5969B042)
+I (../Inc/main.h)(0x5969B042)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h)(0x580DB9AE)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h)(0x580DB97A)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h)(0x580DB97A)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x580DB9AD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F64600)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x580DB9AD)
+I (../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h)(0x580DB97A)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x580DB9AE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F64600)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h)(0x580DB9AE)
+I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h)(0x580DB9AE)
+I (../Inc/usart.h)(0x5969B040)
+I (../Inc/Computer.hpp)(0x597303DD)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F64600)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x57F64600)
+I (../Inc/usbd_cdc_if.h)(0x5969B041)
+I (../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h)(0x5969B2FC)
+I (../Inc/usbd_conf.h)(0x5969B040)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x57F64600)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h)(0x580DB9B3)
+I (../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h)(0x580DB9B3)
+F (startup_stm32f103xb.s)(0x5969B047)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\mmzpa\Documents\ARM\WBV4USB\MDK-ARM\RTE\_WBV4USB-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list startup_stm32f103xb.lst --xref -o wbv4usb\startup_stm32f103xb.o --depend wbv4usb\startup_stm32f103xb.d)
